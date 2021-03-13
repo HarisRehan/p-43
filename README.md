@@ -1,4 +1,5 @@
-# p-43
+# p-43, 44 , 45
+
 Game Design and anlaysis
 
 Decoding a game is basically  dividing in to smaller meaning full parts.
